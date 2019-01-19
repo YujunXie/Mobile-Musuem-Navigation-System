@@ -1,0 +1,127 @@
+<resources>
+    <!--主页-->
+    <string name="app_name">陕西历史博物馆</string>
+    <string name="title_activity_fullscreen">陕历博</string>
+    <string name="login_button">登录／注册</string>
+    <string name="welcome_content">欢迎您来到\n陕西历史博物馆</string>
+    <!--错误页面-->
+    <string name="error_load">加载失败</string>
+    <string name="error_tip">请检测网络是否能正常连接</string>
+    <string name="error_action">点击重试</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_phone">手机号码</string>
+    <string name="prompt_password">验证码</string>
+    <string name="action_sign_in">登录</string>
+    <!--首页-->
+    <string name="title_activity_main">陕西历史博物馆</string>
+    <string name="action_settings">设置</string>
+    <string name="action_qr">扫一扫</string>
+    <string name="action_info">博物馆简介</string>
+    <string name="title_activity_register">注册</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">地图导览</string>
+    <string name="title_activity_settings">设置</string>
+
+
+    <!--展览-->
+    <string name="img_but01"> \n第一展厅包括三个单元，三个单元分别讲述了《人猿揖别》、《凤鸣岐山》、《东方帝国》\n</string>
+    <string name="img_but02">\n第二展厅包括了两个单元，两个单元分别讲述了《大汉雄风》、《冲突融合》\n</string>
+    <string name="img_but03">\n第三展厅包括了两个展厅，两个单元分别讲述了《盛唐气象》、《告别帝都》\n</string>
+    <string name="img_but04">\n唐墓壁画是陕西历史博物馆独具特色的珍贵藏品，共有20多座唐墓的壁画精品近600幅，达1000多平方米。\n</string>
+    <string name="img_but05">\n1970年10月发掘的西安何家村唐代窖藏，两瓮一罐共计收纳金银器、宝玉珍饰、贵重药物、中外钱币等文物共计1000多件\n</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">个人信息</string>
+    <string name="pref_title_display_name">用户名</string>
+    <string name="pref_default_display_name"></string>
+    <string name="pref_title_add_friends_to_messages">性别</string>
+    <string-array name="pref_example_list_titles">
+        <item>男</item>
+        <item>女</item>
+        <item>未知</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+    <string name="pref_title_display_age">年龄</string>
+    <string name="pref_default_display_age"></string>
+    <string name="pref_title_display_text">个性签名</string>
+    <string name="pref_default_display_text"></string>
+
+    <!-- Example settings for Clear Cache -->
+    <string name="pref_title_social_recommendations">清除缓存</string>
+
+    <!-- Example settings for About Us -->
+    <string name="pref_header_about_us">关于我们</string>
+    <string name="about01">陕西历史博物馆\n1.0.0</string>
+    <string name="about02">此APP由北化计科专业小伙伴开发于2017-2018学年第一学期应用实践课设，仅用于学习实践使用。主要致力于陕西历史博物馆，对陕西历史博物馆进行详细讲解，让用户能够方便快捷的游览陕西历史博物馆，</string>
+    <string name="about03">联系电话：010-12345678\n北化计科1402班007小组\nwww.ShxirstoryMuseum.com</string>
+    <string name="intro01">三秦大地是中华民族生息、繁衍，华夏文明诞生、发展的重要地区之一，中国历史上最为辉煌的周、秦、汉、唐等十三个王朝曾在这里建都。丰富的文化遗存，深厚的文化积淀，形成了陕西独特的历史文化风貌，被誉为“古都明珠，华夏宝库”的陕西历史博物馆则是展示陕西历史文化和中国古代文明的艺术殿堂。
+
+       陕西历史博物馆位于西安大雁塔的西北侧，筹建于1983年，1991年6月20日落成开放，是中国第一座大型现代化国家级博物馆，它的建成标志着中国博物馆事业迈入了新的发展里程。这座馆舍为“中央殿堂、四隅崇楼”的唐风建筑群，主次井然有序，高低错落有致，气势雄浑庄重，融民族传统、地方特色和时代精神于一体。馆区占地 65000平方米。建筑面积55600平方米，文物库区面积8000平方米，展厅面积11000平方米，馆藏文物1717950件（组）。上起远古人类初始阶段使用的简单石器，下至1840年前社会生活中的各类器物，时间跨度长达一百多万年。文物不仅数量多、种类全，而且品位高、价值广，其中的商周青铜器精美绝伦，历代陶俑千姿百态，汉唐金银器独步全国，唐墓壁 画举世无双。可谓琳琅满目、精品荟萃。
+
+       陕西历史博物馆是一座综合性历史类博物馆。开馆以来，充分发挥文物藏品优势，坚持“有效保护、合理利用、加强管理”的原则，把收藏保管、科学研究和宣传教育功能有机相结合，举办了各种形式的陈列展览，形成了基本陈列、专题陈列和临时展览互为补充、交相辉映的陈列体系，从多角度、多侧面向广大观众揭示历史文物的丰富文化内涵，展现华夏民族博大精深的文明成就。同时，以开放的姿态走出国门， 将灿烂辉煌的中华文明、光彩夺目的三秦文化呈现给世界各国人民。
+
+       作为被首批确定为中国“4A”级旅游景点的陕西历史博物馆，以其优上的陈列、优美的环境、优质的服务、优良的秩序和独特的魅力，吸引着众多中外宾客纷至沓来，已成为传播中华民族优秀文化和对外文化交流的重要窗口。在21世纪里，这座汇集着三秦大地文物精华的文化殿堂，将会以充满生机和活力的崭新面貌，为人类的物质文 明和精神文明建设作出更大的贡献。</string>
+    <string name="intro02">每周二至周日开放，开馆期间，上午发票截止到午休时间，下午13:00以后继续发票；\n冬季（11月15日-次年3月14日）9：00-17：30（16：00停止发票），\n夏季（3月15日-11月14日）8：30-18：00（16：30停止发票）；\n周一闭馆，遇法定节假日周一正常开放。(除夕闭馆)</string>
+    <string name="intro03">免费开放实行“免费不免票”，每天限量限时发放免费参观券6000张（每日14点以前限3000张，下午限3000张），发完为止。\n散客（凭身份证或有效证件）参观一人限领一票，当日有效，过期作废。\n珍宝馆费用30元/每人；唐代壁画珍品馆300元/人。</string>
+    <string name="intro04">陕西省西安市雁塔区小寨东路91号</string>
+    <string name="intro05">馆内购买的讲解费用较贵，建议使用我们的APP语音讲解。\nA、人工讲解：基本陈列中文讲解100元，英文或日文讲解150元；大唐遗宝专题展中文讲解50元，英文或日文讲解100元；唐代壁画珍品馆中文讲解50元。一名讲解员最多可带领10名游客参观。可以现拼团进入。\nB、自动语音导览机：有中文、英文、法文、日文、韩文语言讲解；其中中文有中文学生版，这样可以方便小朋友收听。收费标准：押金100元，基本陈列租金30元/台，基本陈列和大唐遗宝专题展租金30元/台。缺点是普遍反应速度快，人多嘈杂时有听不清的现象\n</string>
+    <string name="intro06">029-85254727</string>
+
+    <!-- Example settings for Help Doc -->
+    <string name="pref_header_help">使用帮助</string>
+    <string name="help_login">登录注册</string>
+    <string name="help_logindoc">使用手机短信注册，注册即登录。</string>
+    <string name="help_map">地图导览</string>
+    <string name="help_mapdoc">优先显示陕西历史博物馆位置地图。
+		屏幕正下方五个按钮。\n1：显示陕西历史博物馆位置地图；\n2：定位手机当前位置；\n3：馆内路线规划；
+		\n4：显示五大展厅位置，点击图片可进入相应展厅；\n5：导航，出发地为手机定位位置，目的地为陕西历史博物馆；</string>
+    <string name="help_qr">语音讲解</string>
+    <string name="help_qrdoc">扫描二维码。</string>
+    <string name="help_yuyin">扫一扫</string>
+    <string name="help_yuyindoc">第一个按钮可点击播放和点击暂停，第二个按钮用于语音重新播放。</string>
+    <string name="help_search">文物搜索</string>
+    <string name="help_searchdoc">搜索文物名称，显示相关文物信息。</string>
+    <string name="help_setting">设置</string>
+    <string name="help_settingdoc">1.设置个人信息（用户名，性别，年龄，个性签名）；\n2：通知（接收消息推送，更换提示音，打开震动）；\n3：清除缓存；
+	 \n4：使用帮助；\n5：关于我们；\n6：其他（系统同步设置，查看当前版本）；\n7：退出登录；</string>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">其他</string>
+    <string name="pref_title_system_sync_settings">系统同步设置</string>
+    <string name="pref_title_current_edition">当前版本</string>
+    <string name="pref_default_edition">1.0.0</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">通知</string>
+    <string name="pref_title_new_message_notifications">接收消息推送</string>
+    <string name="pref_title_ringtone">提示音</string>
+    <string name="pref_ringtone_silent">静音</string>
+    <string name="pref_title_vibrate">打开震动</string>
+
+    <string name="pref_header_exit">退出登录</string>
+
+    <string name="action_example">Example action</string>
+
+    <!--展览详情页-->
+    <string name="text1">第一展厅</string>
+    <string name="text2">《人猿揖别》，以距今115万年前的蓝田猿人、大荔人、西安半坡、临潼姜寨等先民遗存，再现了中华民族生机勃勃的童年和文明的曙光；\n《凤鸣岐山》，以陕西作为西周王都拥有的丰富遗迹、遗物，展示了中国早期国家的政治制度、经济形态尤其是伦理精神以及青铜铸造技术。\n《东方帝国》，重点展示以兵马俑为代表的秦文物，以磅礴的气势和鲜明的军事特征，表现了秦帝国垂范后世的制度文明，以及积极进取、一统河山的时代精神。\n </string>
+    <string name="text3">第二展厅</string>
+    <string name="text4">《大汉雄风》，以汉都长安、汉家陵阙和典型汉代文物，展示了中国古代社会发展的第一个高峰——汉代繁荣的经济、文化、对外开放与交往，彰显其开放进取、开拓强盛的时代风貌。\n《冲突融合》，以陕西丰富精美的农业民族与草原民族的文化遗存及宗教文物，表现了民族大融合、佛教东渐以及文化艺术的繁荣与特征。</string>
+    <string name="text5">第三展厅</string>
+    <string name="text6">《盛唐气象》，通过隋唐时代典型遗存，展示了中国古代最鼎盛时期的文化风貌，当时世界上最为繁华的国际大都会长安，和沟通东西方交流的丝绸之路，以及隋唐文化兼收并蓄、创新发展而达到的前所未有的高度。\n《告别帝都》，展示了唐以后，作为西部重镇和西北区域中心的陕西，依然独具魅力的文化创造和精神传承。</string>>
+    <string name="text7">唐代壁画珍品展</string>
+    <string name="text8">唐墓壁画是陕西历史博物馆独具特色的珍贵藏品，共有20多座唐墓的壁画精品近600幅，达1000多平方米。其中5件（组）18幅被国家定为国宝级，69件（组）82幅被定为一级品。\n唐墓壁画以风格独特的建筑、简约传神的人物、特色鲜明的器物、简洁明快的山水与栩栩如生的动植物，描绘了当时的仪礼规范、生活习俗、服饰特色、娱乐方式与建筑风格，是研究唐代社会生活尤其是贵族生活和精神追求的重要形象资料。同时，唐墓壁画又极其脆弱，对保存条件要求很高，为了保护和利用好唐墓壁画，我们决定建设一座集保护、研究和观赏为一体的唐墓壁画馆。\n 唐代壁画珍品馆是陕西省政府确定的文物旅游方面的重点项目,位于陕西历史博物馆东展馆地下一层，利用博物馆建设时的预留展室，总投资7300多万元（其中省政府补助资金为1800万元人民币，意大利政府软贷款400余万欧元和赠款100万欧元），建筑面积4200平方米，其中展厅面积3400平方米，展线总长约800米。由于软贷款的特殊要求，展柜作为壁画馆最大宗设备全部从意大利购买，展柜玻璃是防紫外线夹胶玻璃，柜门可以打开至90度，最大的优点在于密封性非常好，通过温湿度控制就为壁画提供了相对独立的良好的保存环境。</string>
+    <string name="text9">大唐遗宝展</string>
+    <string name="text10">1970年10月发掘的西安何家村唐代窖藏，发现的十分偶然。当时一单位的基建施工人员在挖地基时，突然发现了一个陶瓮和一个提梁银罐，里面装满了金银宝物，他们立即将这一发现报告原陕西省博物馆（陕西历史博物馆的前身），文物工作者迅速赶至现场，接收了这批珍宝，并对周围展开钻探调查，10月11日探铲下传来了清脆的金属声，随后第二瓮珍宝也出土了。两瓮一罐共计收纳金银器、宝玉珍饰、贵重药物、中外钱币等文物共计1000多件。\n 这次考古发现以出土文物数量众多、种类繁复、工艺精美、保存完好著称于世，也是二十世纪隋唐考古最为重要的考古发现之一。这批珍贵文物蕴含信息十分丰富，从政治、经济、思想、文化、艺术、风俗、技艺等多角度、多层面地揭示了大唐的时代生活。这批宝物的主人是谁？因何埋藏于地下，至今还是学术界探讨研究的问题。\n 何家村窖藏出土文物自出土以来，虽然一直是唐代主题展览的亮点，但如此大规模集中展示尚属首次。此次无疑将为更多观众提供一个全面观赏这批珍贵文物的机会。</string>
+
+</resources>

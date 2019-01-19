@@ -1,0 +1,42 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="com.example.yujun.myapplication.SettingsActivity$GeneralPreferenceFragment"
+        android:icon="@drawable/ic_drawer"
+        android:title="@string/pref_header_general" />
+
+    <header
+        android:fragment="com.example.yujun.myapplication.SettingsActivity$NotificationPreferenceFragment"
+        android:icon="@drawable/ic_drawer"
+        android:title="@string/pref_header_notifications" />
+
+    <header
+        android:title="@string/pref_title_social_recommendations"
+        android:icon="@drawable/ic_drawer"
+        android:id="@+id/clearCacheBtn">
+    </header>
+
+    <header
+        android:fragment="com.example.yujun.myapplication.SettingsActivity$HelpPreferenceFragment"
+        android:icon="@drawable/ic_drawer"
+        android:title="@string/pref_header_help" />
+
+    <header
+        android:fragment="com.example.yujun.myapplication.SettingsActivity$AboutPreferenceFragment"
+        android:icon="@drawable/ic_drawer"
+        android:title="@string/pref_header_about_us" />
+
+    <header
+        android:fragment="com.example.yujun.myapplication.SettingsActivity$DataSyncPreferenceFragment"
+        android:icon="@drawable/ic_drawer"
+        android:title="@string/pref_header_data_sync" />
+
+    <header
+        android:title="@string/pref_header_exit"
+        android:icon="@drawable/ic_drawer"
+        android:id="@+id/exitBtn">
+    </header>
+
+</preference-headers>

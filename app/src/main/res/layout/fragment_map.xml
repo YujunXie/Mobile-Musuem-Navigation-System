@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yujun.myapplication.MainActivity$PlaceholderFragment">
+
+    <com.baidu.mapapi.map.TextureMapView
+        android:id="@+id/mTexturemap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </com.baidu.mapapi.map.TextureMapView>
+
+    <Button
+        android:id="@+id/homeBtn"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/home"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/locateBtn"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="65dp"
+        android:background="@drawable/locate"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/musumeBtn"
+        android:layout_width="23dp"
+        android:layout_height="23dp"
+        android:background="@drawable/show_musume"
+        android:layout_marginBottom="13dp"
+        android:layout_marginLeft="120dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/walkBtn"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="160dp"
+        android:background="@drawable/walk"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/navigateBtn"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:background="@drawable/navigate"
+        android:layout_marginBottom="13dp"
+        android:layout_marginLeft="215dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>

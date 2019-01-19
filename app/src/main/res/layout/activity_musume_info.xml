@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarAlwaysDrawHorizontalTrack="false">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarAlwaysDrawHorizontalTrack="false">
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/image0"
+                android:layout_width="420dp"
+                android:layout_height="283dp"
+                android:src="@drawable/doorpic"/>
+
+            <ImageView
+                android:id="@+id/image1"
+                android:layout_width="50dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/colorline"
+                android:src="@drawable/intro"/>
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro01"
+                android:textSize="15sp"
+                android:typeface="monospace"/>
+
+            <ImageView
+                android:id="@+id/image2"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/timing"/>
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro02"
+                android:textSize="15sp"
+                android:typeface="monospace" />
+
+            <ImageView
+                android:id="@+id/image3"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:src="@drawable/piace"/>
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro03"
+                android:textSize="15sp"
+                android:typeface="monospace"/>
+
+            <ImageView
+                android:id="@+id/image4"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:src="@drawable/address"/>
+            <TextView
+                android:id="@+id/text4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro04"
+                android:textSize="15sp"
+                android:typeface="monospace" />
+
+            <ImageView
+                android:id="@+id/image6"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:src="@drawable/tele"/>
+            <TextView
+                android:id="@+id/text6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro06"
+                android:textSize="15sp"
+                android:typeface="monospace"/>
+
+            <ImageView
+                android:id="@+id/image5"
+                android:layout_width="70dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/tip"/>
+            <TextView
+                android:id="@+id/text5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/intro05"
+                android:textSize="15sp"
+                android:typeface="monospace" />
+        </LinearLayout>
+    </ScrollView>
+
+</HorizontalScrollView>
